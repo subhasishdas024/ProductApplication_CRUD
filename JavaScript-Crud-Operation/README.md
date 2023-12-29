@@ -1,5 +1,14 @@
 # JavaScript-Crud-Operation
-Form Submission Using JavaScript, CSS &amp; Html
+
+## Step 1: Installation
+
+Clone the repository to your local machine:
+
+bash
+
+Copy code
+
+``` git clone [repository_url] ```
 
 Output Screens
 
