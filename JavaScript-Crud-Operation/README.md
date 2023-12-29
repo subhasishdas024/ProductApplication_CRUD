@@ -1,4 +1,4 @@
-# JavaScript-Crud-Operation
+# JavaScript-Crud-Operation ( Streamline product management )
 
 ## Step 1: Installation
 
